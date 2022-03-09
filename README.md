@@ -1,5 +1,5 @@
 # api-fake-movies-rocketseat
 desenvolvendo api fake para o projeto movies rocketseat
 
-para executar o serve executar o comando npm install -g json-server,
-e para startar: json-server --watch db.json
+Para instalar as depedencias apos clonar o repositorio, executar o comando
+npm install ou yarn install, e para iniciar o servidor dar o comando npm start ou yarn start.
