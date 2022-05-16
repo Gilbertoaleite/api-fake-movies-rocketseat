@@ -247,39 +247,6 @@
     },
     {
       "Genre_id": 3,
-      "Title": "Kiss the Ground",
-      "Year": "2020",
-      "Rated": "N/A",
-      "Released": "01 Apr 2020",
-      "Runtime": "84 min",
-      "Genre": "Documentary",
-      "Director": "Joshua Tickell, Rebecca Harrell Tickell",
-      "Writer": "Johnny O'Hara, Joshua Tickell, Rebecca Harrell Tickell",
-      "Actors": "Woody Harrelson, Ray Archuleta, John Wick, Kristin Ohlson",
-      "Plot": "A revolutionary group of activists, scientists, farmers, and politicians band together in a global movement of \"Regenerative Agriculture\",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "4 wins & 4 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJkOWRhZWUtZmNlZC00NWYwLThiMmEtZjZkMTI4N2Y1NDMxXkEyXkFqcGdeQXVyMTE5NTc0NzY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.3",
-      "imdbVotes": "4,733",
-      "imdbID": "tt8618654",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 3,
       "Title": "American Factory",
       "Year": "2019",
       "Rated": "TV-14",
@@ -401,28 +368,7 @@
       "Website": "N/A",
       "Response": "True"
     },
-    {
-      "Genre_id": 4,
-      "Title": "The Revenant",
-      "Year": "2015",
-      "Rated": "R",
-      "Released": "08 Jan 2016",
-      "Runtime": "156 min",
-      "Genre": "Action, Adventure, Drama, History, Western",
-      "Director": "Alejandro G. Iñárritu",
-      "Writer": "Mark L. Smith (screenplay), Alejandro G. Iñárritu (screenplay), Michael Punke (based in part on the novel by)",
-      "Actors": "Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",
-      "Plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
-      "Language": "English, Pawnee, French",
-      "Country": "USA, Hong Kong, Taiwan",
-      "Awards": "Won 3 Oscars. Another 87 wins & 187 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
+   {
           "Source": "Rotten Tomatoes",
           "Value": "78%"
         },
