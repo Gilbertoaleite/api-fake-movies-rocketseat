@@ -24,11 +24,6 @@
       "id": 5,
       "name": "horror",
       "title": "Terror"
-    },
-    {
-      "id": 6,
-      "name": "family",
-      "title": "Família"
     }
   ],
   "movies": [
@@ -158,47 +153,6 @@
     },
     {
       "Genre_id": 2,
-      "Title": "Bad Boys for Life",
-      "Year": "2020",
-      "Rated": "R",
-      "Released": "17 Jan 2020",
-      "Runtime": "124 min",
-      "Genre": "Action, Comedy, Crime, Thriller",
-      "Director": "Adil El Arbi, Bilall Fallah",
-      "Writer": "Peter Craig (story by), Joe Carnahan (story by), Chris Bremner (screenplay by)",
-      "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig",
-      "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
-      "Language": "English, Spanish",
-      "Country": "USA, Mexico",
-      "Awards": "2 wins & 12 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "77%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "59/100"
-        }
-      ],
-      "Metascore": "59",
-      "imdbRating": "6.6",
-      "imdbVotes": "131,495",
-      "imdbID": "tt1502397",
-      "Type": "movie",
-      "DVD": "31 Mar 2020",
-      "BoxOffice": "$206,305,244",
-      "Production": "2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 2,
       "Title": "Sausage Party",
       "Year": "2016",
       "Rated": "R",
@@ -278,36 +232,7 @@
       "Production": "Reliance Entertainment, Universal Pictures, Walden Media, Pariah",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Genre_id": 3,
-      "Title": "Apollo 11",
-      "Year": "2019",
-      "Rated": "G",
-      "Released": "01 Mar 2019",
-      "Runtime": "93 min",
-      "Genre": "Documentary, History",
-      "Director": "Todd Douglas Miller",
-      "Writer": "N/A",
-      "Actors": "Neil Armstrong, Michael Collins, Buzz Aldrin, Deke Slayton",
-      "Plot": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Michael Collins.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "Won 3 Primetime Emmys. Another 52 wins & 42 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "99%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "88/100"
-        }
+    }
       ],
       "Metascore": "88",
       "imdbRating": "8.2",
@@ -350,43 +275,6 @@
       "DVD": "N/A",
       "BoxOffice": "N/A",
       "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 3,
-      "Title": "The Game Changers",
-      "Year": "2018",
-      "Rated": "N/A",
-      "Released": "16 Sep 2019",
-      "Runtime": "86 min",
-      "Genre": "Documentary",
-      "Director": "Louie Psihoyos",
-      "Writer": "Shannon Kornelsen (Co-writer), Mark Monroe, Joseph Pace",
-      "Actors": "James Wilks, Arnold Schwarzenegger, Patrik Baboumian, Dotsie Bausch",
-      "Plot": "A UFC fighter's world is turned upside down when he discovers an elite group of world-renowned athletes and scientists who prove that everything he had been taught about protein was a lie.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "1 nomination.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "70%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.9",
-      "imdbVotes": "16,197",
-      "imdbID": "tt7455754",
-      "Type": "movie",
-      "DVD": "01 Oct 2019",
-      "BoxOffice": "$739,711",
-      "Production": "Diamond Docs, ReFuel Productions, Oceanic Preservation Society",
       "Website": "N/A",
       "Response": "True"
     },
