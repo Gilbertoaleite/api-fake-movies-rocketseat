@@ -68,48 +68,6 @@
       "Website": "N/A",
       "Response": "True"
     },
-  
-    {
-      "Genre_id": 1,
-      "Title": "Deadpool",
-      "Year": "2016",
-      "Rated": "R",
-      "Released": "12 Feb 2016",
-      "Runtime": "108 min",
-      "Genre": "Action, Adventure, Comedy, Sci-Fi",
-      "Director": "Tim Miller",
-      "Writer": "Rhett Reese, Paul Wernick",
-      "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
-      "Plot": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "Nominated for 2 Golden Globes. Another 28 wins & 76 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "85%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "65/100"
-        }
-      ],
-      "Metascore": "65",
-      "imdbRating": "8.0",
-      "imdbVotes": "904,840",
-      "imdbID": "tt1431045",
-      "Type": "movie",
-      "DVD": "21 Apr 2016",
-      "BoxOffice": "$363,070,709",
-      "Production": "Kinberg Genre, Donners&#39; Company",
-      "Website": "N/A",
-      "Response": "True"
-    },
     {
       "Genre_id": 2,
       "Title": "Bruce Almighty",
@@ -148,47 +106,6 @@
       "DVD": "01 Dec 2015",
       "BoxOffice": "$242,829,261",
       "Production": "Spyglass Entertainment",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 2,
-      "Title": "Sausage Party",
-      "Year": "2016",
-      "Rated": "R",
-      "Released": "12 Aug 2016",
-      "Runtime": "89 min",
-      "Genre": "Animation, Adventure, Comedy, Fantasy",
-      "Director": "Greg Tiernan, Conrad Vernon",
-      "Writer": "Kyle Hunter (screenplay by), Ariel Shaffir (screenplay by), Seth Rogen (screenplay by), Evan Goldberg (screenplay by), Seth Rogen (story by), Evan Goldberg (story by), Jonah Hill (story by)",
-      "Actors": "Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",
-      "Plot": "A sausage strives to discover the truth about his existence.",
-      "Language": "English",
-      "Country": "USA, Canada",
-      "Awards": "1 win & 24 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "82%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "Metascore": "66",
-      "imdbRating": "6.1",
-      "imdbVotes": "176,325",
-      "imdbID": "tt1700841",
-      "Type": "movie",
-      "DVD": "04 Nov 2016",
-      "BoxOffice": "$97,685,686",
-      "Production": "Sony Music, Point Grey, Annapurna Pictures, Columbia Pictures",
       "Website": "N/A",
       "Response": "True"
     },
